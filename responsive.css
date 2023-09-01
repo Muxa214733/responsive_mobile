@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(45deg,#78a3eb,#fbc2eb 58%,#fbc2eb);
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+    width: 430px;
+    height: 932px;
+    
+}
+
+#Sign{
+    width: 317px;
+    height: 51px;
+    padding-inline: 51px 61px;
+
+}
+
+
